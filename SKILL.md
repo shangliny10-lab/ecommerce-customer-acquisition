@@ -1,5 +1,5 @@
 ---
-name: doubao-ecommerce-customer-acquisition
+name: ecommerce-customer-acquisition
 description: 跨境电商全渠道自动获客与流量增长专家。覆盖 Amazon、TEMU、TikTok Shop、Shopee、Lazada、Walmart、eBay、独立站(Shopify)等平台的流量获取与访客增长，包括关键词SEO与搜索流量、竞品流量拆解与逆向工程、社交媒体引流(TikTok/Instagram/Facebook/YouTube Shorts/Pinterest/Reddit)、PPC/付费广告投放策略、KOL/达人/联盟营销合作、内容营销与UGC种草、邮件营销与再营销召回、客户画像与受众分层构建、转化漏斗与落地页优化、获客成本(CPA/CAC)与ROI/ROAS追踪。当用户需要获取电商流量、提升店铺访客量、制定全渠道获客策略、分析竞品流量来源、优化广告投放ROI、搭建自动化引流体系、降低单客获取成本、寻找蓝海流量入口时使用。
 ---
 
